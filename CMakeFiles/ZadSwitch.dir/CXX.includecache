@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/Luftmysza/Nowy/ZadKcpp/src/ZadSwitch.cc
+iostream
+-
+string.h
+-
+stdio.h
+-
+

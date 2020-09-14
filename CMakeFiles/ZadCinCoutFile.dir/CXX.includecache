@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/Luftmysza/Nowy/ZadKcpp/src/ZadCinCoutFile.cc
+iostream
+-
+fstream
+-
+

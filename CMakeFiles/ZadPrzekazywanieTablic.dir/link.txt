@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -O0 -Wno-unused-variable -std=c++11 -g  -rdynamic CMakeFiles/ZadPrzekazywanieTablic.dir/src/ZadPrzekazywanieTablic.cc.o  -o ZadPrzekazywanieTablic 

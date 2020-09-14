@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -O0 -Wno-unused-variable -std=c++11 -g  -rdynamic CMakeFiles/ZadDec2Bin.dir/src/ZadDec2Bin.cc.o  -o ZadDec2Bin 

@@ -1,0 +1,16 @@
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/rebuild_cache.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/edit_cache.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadZwracanie.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadAdresowaniePamieci.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadArytmetykaWskaznikow.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadBin2Dec.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadCinCoutFile.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadDec2Bin.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadPrzekazywanieTablic.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadIq.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadMainExample.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadPetle.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadSwitch.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadPriorytetyOperatorow.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadUnia.dir
+/run/media/Luftmysza/Nowy/ZadKcpp/CMakeFiles/ZadWywolanieFunkcji.dir
